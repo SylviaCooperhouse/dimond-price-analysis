@@ -63,14 +63,15 @@ Explore key visualizations:
 
 </details>
 
+<details>
+<summary>Actual Prices vs. Predicted Prices (Random Forest)</summary>
+</details>
+
 ![Actual Prices vs. Predicted Prices (Random Forest)](Actual%20Prices%20vs.%20Predicted%20Prices%20(Random%20Forest).png)
 
 <details>
 <summary>Random Forest Feature Importance</summary>
 
-<details>
-<summary>Actual Prices vs. Predicted Prices (Random Forest)</summary>
-</details>
 ![Random Forest Feature Importance](Random%20Forest%20Feature%20Importance.png)
 
 </details>
