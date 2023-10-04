@@ -40,7 +40,42 @@ In this data analysis project, I explored the diamond pricing using a dataset so
 - Feature importance analysis revealed that carat weight was the most influential attribute, followed by cut quality, clarity, and color, in determining diamond prices.
 
 ## Visulization Hightlights
-![Actual Prices vs. Predicted Prices (Random Forest)](Actual Prices vs. Predicted Prices (Random Forest).png)
+## Visualization Highlights
+
+Explore key visualizations that provide insights into the world of diamond pricing:
+
+### Distribution of Diamond Prices
+
+![Distribution of Diamond Prices](Distribution%20of%20Diamond%20Prices.png)
+
+Gain a better understanding of how diamond prices are distributed within the dataset.
+
+### Correlation Matrix
+
+![Correlation Matrix](Correlation%20Matrix.png)
+
+Discover the relationships between various attributes, such as carat weight, cut quality, and clarity, and their impact on diamond prices.
+
+### Price vs. Carat
+
+![Price vs. Carat](Price%20vs.%20Carat.png)
+
+Visualize the relationship between diamond price and carat weight, a crucial factor in determining diamond value.
+
+### Actual Prices vs. Predicted Prices (Random Forest)
+
+![Actual Prices vs. Predicted Prices (Random Forest)](Actual%20Prices%20vs.%20Predicted%20Prices%20(Random%20Forest).png)
+
+See how well the Random Forest Regression model predicts diamond prices compared to actual prices.
+
+### Random Forest Feature Importance
+
+![Random Forest Feature Importance](Random%20Forest%20Feature%20Importance.png)
+
+Identify which attributes have the most influence on predicting diamond prices according to the Random Forest model.
+
+These visualizations offer valuable insights into the world of diamonds and pricing dynamics, helping consumers and industry professionals make informed decisions.
+
 
 ## Conclusion
 
