@@ -40,43 +40,43 @@ In this data analysis project, I explored the diamond pricing using a dataset so
 - Feature importance analysis revealed that carat weight was the most influential attribute, followed by cut quality, clarity, and color, in determining diamond prices.
 
 ## Visulization Hightlights
-## Visualization Highlights
 
-Explore key visualizations that provide insights into the world of diamond pricing:
+Explore key visualizations:
 
-### Distribution of Diamond Prices
-
+<details>
+<summary>Distribution of Diamond Prices</summary>
+  
 ![Distribution of Diamond Prices](Distribution%20of%20Diamond%20Prices.png)
 
-Gain a better understanding of how diamond prices are distributed within the dataset.
+</details>
 
-### Correlation Matrix
+<details>
+<summary>Correlation Matrix</summary>
 
 ![Correlation Matrix](Correlation%20Matrix.png)
 
-Discover the relationships between various attributes, such as carat weight, cut quality, and clarity, and their impact on diamond prices.
+</details>
 
-### Price vs. Carat
+<details>
+<summary>Price vs. Carat</summary>
 
 ![Price vs. Carat](Price%20vs.%20Carat.png)
 
-Visualize the relationship between diamond price and carat weight, a crucial factor in determining diamond value.
+</details>
 
-### Actual Prices vs. Predicted Prices (Random Forest)
+<details>
+<summary>Actual Prices vs. Predicted Prices (Random Forest)</summary>
 
 ![Actual Prices vs. Predicted Prices (Random Forest)](Actual%20Prices%20vs.%20Predicted%20Prices%20(Random%20Forest).png)
 
-See how well the Random Forest Regression model predicts diamond prices compared to actual prices.
+</details>
 
-### Random Forest Feature Importance
+<details>
+<summary>Random Forest Feature Importance</summary>
 
 ![Random Forest Feature Importance](Random%20Forest%20Feature%20Importance.png)
 
-Identify which attributes have the most influence on predicting diamond prices according to the Random Forest model.
-
-These visualizations offer valuable insights into the world of diamonds and pricing dynamics, helping consumers and industry professionals make informed decisions.
-
-
+</details>
 ## Conclusion
 
 This analysis serves as a valuable resource for consumers, jewelers, and industry professionals seeking to make informed decisions regarding diamond purchases and pricing strategies. While the code and analysis did not explicitly address missing values, outliers, or data validation, it provided essential insights into the diamond market's pricing dynamics and predictive modeling techniques.
