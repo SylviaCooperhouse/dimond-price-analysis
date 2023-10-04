@@ -2,7 +2,15 @@
 
 ## Project Overview
 
-In this data analysis project, I explored the fascinating world of diamond pricing using a dataset sourced from Kaggle. My primary objective was to create a robust model for predicting diamond prices based on a diverse set of attributes, including carat weight, cut quality, color, clarity, and physical dimensions. Below, I outline the key steps and insights from this analysis:
+In this data analysis project, I explored the diamond pricing using a dataset sourced from Kaggle. My primary objective was to create a robust model for estimating diamond prices based on a diverse set of attributes, including carat weight, cut quality, color, clarity, and physical dimensions. Below, I outline the key steps and insights from this analysis:
+
+## Technologies and Tools Used
+
+- **Programming Language:** Python 3.7
+- **Libraries and Frameworks:** pandas, matplotlib, seaborn, scikit-learn, Flask
+- **Data Source:** Kaggle (Diamonds dataset)
+- **Machine Learning Models:** Linear Regression, Polynomial Regression, Random Forest Regression
+- **Web Hosting Platform (for Flask API):** Local development environment
 
 ## Data Collection
 
@@ -34,3 +42,18 @@ In this data analysis project, I explored the fascinating world of diamond prici
 ## Conclusion
 
 This analysis serves as a valuable resource for consumers, jewelers, and industry professionals seeking to make informed decisions regarding diamond purchases and pricing strategies. While the code and analysis did not explicitly address missing values, outliers, or data validation, it provided essential insights into the diamond market's pricing dynamics and predictive modeling techniques.
+
+## Flask API Development
+
+- Developed a Flask API to serve as the user interface for diamond price estimation.
+- The API accepts input parameters such as carat weight, cut quality, color, clarity, and physical dimensions to predict diamond prices.
+- Leveraged the Flask web framework in Python for building the API endpoints.
+- Integrated a trained machine learning model into the API to make real-time predictions based on user inputs.
+- Created a dedicated endpoint, `/predict`, where users can submit their input data for price estimation.
+- Implemented error handling to ensure graceful handling of exceptions and errors during API interactions.
+
+## User-Friendly Interface
+
+- Designed a simple and intuitive user interface for users to interact with the API.
+- Users can make HTTP POST requests to the `/predict` endpoint with their diamond attribute data in JSON format.
+- The API responds with the estimated diamond price, providing a seamless user experience.
