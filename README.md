@@ -50,12 +50,7 @@ Explore key visualizations:
 
 </details>
 
-<details>
-<summary>Correlation Matrix</summary>
-
 ![Correlation Matrix](Correlation%20Matrix.png)
-
-</details>
 
 <details>
 <summary>Price vs. Carat</summary>
@@ -64,19 +59,8 @@ Explore key visualizations:
 
 </details>
 
-<details>
-<summary>Actual Prices vs. Predicted Prices (Random Forest)</summary>
-
 ![Actual Prices vs. Predicted Prices (Random Forest)](Actual%20Prices%20vs.%20Predicted%20Prices%20(Random%20Forest).png)
-
-</details>
-
-<details>
-<summary>Random Forest Feature Importance</summary>
-
 ![Random Forest Feature Importance](Random%20Forest%20Feature%20Importance.png)
-
-</details>
 
 ## Conclusion
 
