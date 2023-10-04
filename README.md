@@ -77,6 +77,7 @@ Explore key visualizations:
 ![Random Forest Feature Importance](Random%20Forest%20Feature%20Importance.png)
 
 </details>
+
 ## Conclusion
 
 This analysis serves as a valuable resource for consumers, jewelers, and industry professionals seeking to make informed decisions regarding diamond purchases and pricing strategies. While the code and analysis did not explicitly address missing values, outliers, or data validation, it provided essential insights into the diamond market's pricing dynamics and predictive modeling techniques.
