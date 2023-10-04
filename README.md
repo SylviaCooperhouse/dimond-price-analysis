@@ -39,6 +39,9 @@ In this data analysis project, I explored the diamond pricing using a dataset so
 - The Random Forest Regression model demonstrated the highest predictive accuracy, explaining approximately 98.14% of the variance in diamond prices.
 - Feature importance analysis revealed that carat weight was the most influential attribute, followed by cut quality, clarity, and color, in determining diamond prices.
 
+## Visulization Hightlights
+![Actual Prices vs. Predicted Prices (Random Forest)](Actual Prices vs. Predicted Prices (Random Forest).png)
+
 ## Conclusion
 
 This analysis serves as a valuable resource for consumers, jewelers, and industry professionals seeking to make informed decisions regarding diamond purchases and pricing strategies. While the code and analysis did not explicitly address missing values, outliers, or data validation, it provided essential insights into the diamond market's pricing dynamics and predictive modeling techniques.
