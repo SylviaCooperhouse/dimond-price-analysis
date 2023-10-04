@@ -53,8 +53,8 @@ Explore key visualizations:
 <details>
 <summary>Correlation Matrix</summary>
 </details>
-![Correlation Matrix](Correlation%20Matrix.png)
 
+![Correlation Matrix](Correlation%20Matrix.png)
 
 <details>
 <summary>Price vs. Carat</summary>
